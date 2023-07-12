@@ -1,0 +1,15 @@
+## self.linear_in_dim:  1600
+Traceback (most recent call last):
+  File "main.py", line 175, in <module>
+    train_loss, train_acc = train(epoch, best_train)
+  File "main.py", line 118, in train
+    output, probs = model(data)
+  File "/home/mingyanzhen/anaconda3/envs/py36_torch/lib/python3.6/site-packages/torch/nn/modules/module.py", line 547, in __call__
+    result = self.forward(*input, **kwargs)
+  File "/media/hd3/mingyanzhen/20210823_prostate/20210823_prostate_by_capsuleNet/0913_capsNet/3_3d/models/ResNet3D_VAE.py", line 289, in forward
+    vae_out, mu, logvar = self.vae(x4)
+  File "/home/mingyanzhen/anaconda3/envs/py36_torch/lib/python3.6/site-packages/torch/nn/modules/module.py", line 547, in __call__
+    result = self.forward(*input, **kwargs)
+  File "/media/hd3/mingyanzhen/20210823_prostate/20210823_prostate_by_capsuleNet/0913_capsNet/3_3d/models/ResNet3D_VAE.py", line 245, in forward
+    y = y.view(-1, self.encoder_channels, self.reshape_dim[0], self.reshape_dim[1], self.reshape_dim[2])
+RuntimeError: cannot reshape tensor of 0 elements into shape [-1, 16, 0, 10, 10] because the unspecified dimension size -1 can be any value and is ambiguous

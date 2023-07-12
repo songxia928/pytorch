@@ -1,0 +1,506 @@
+tensor(148327.0469, device='cuda:0', grad_fn=<MseLossBackward>)
+Train Epoch: 1 [0/190 (0%)]	Loss: 74.370529
+tensor(144022.7656, device='cuda:0', grad_fn=<MseLossBackward>)
+tensor(244379.3438, device='cuda:0', grad_fn=<MseLossBackward>)
+tensor(165148.3594, device='cuda:0', grad_fn=<MseLossBackward>)
+tensor(260215.2812, device='cuda:0', grad_fn=<MseLossBackward>)
+tensor(247715.1562, device='cuda:0', grad_fn=<MseLossBackward>)
+tensor(98786.9609, device='cuda:0', grad_fn=<MseLossBackward>)
+tensor(nan, device='cuda:0', grad_fn=<MseLossBackward>)
+tensor(nan, device='cuda:0', grad_fn=<MseLossBackward>)
+tensor(nan, device='cuda:0', grad_fn=<MseLossBackward>)
+tensor(nan, device='cuda:0', grad_fn=<MseLossBackward>)
+Train Epoch: 1 [20/190 (11%)]	Loss: nan
+tensor(nan, device='cuda:0', grad_fn=<MseLossBackward>)
+tensor(nan, device='cuda:0', grad_fn=<MseLossBackward>)
+tensor(nan, device='cuda:0', grad_fn=<MseLossBackward>)
+tensor(nan, device='cuda:0', grad_fn=<MseLossBackward>)
+tensor(nan, device='cuda:0', grad_fn=<MseLossBackward>)
+tensor(nan, device='cuda:0', grad_fn=<MseLossBackward>)
+tensor(nan, device='cuda:0', grad_fn=<MseLossBackward>)
+tensor(nan, device='cuda:0', grad_fn=<MseLossBackward>)
+tensor(nan, device='cuda:0', grad_fn=<MseLossBackward>)
+tensor(nan, device='cuda:0', grad_fn=<MseLossBackward>)
+Train Epoch: 1 [40/190 (21%)]	Loss: nan
+tensor(nan, device='cuda:0', grad_fn=<MseLossBackward>)
+tensor(nan, device='cuda:0', grad_fn=<MseLossBackward>)
+tensor(nan, device='cuda:0', grad_fn=<MseLossBackward>)
+tensor(nan, device='cuda:0', grad_fn=<MseLossBackward>)
+tensor(nan, device='cuda:0', grad_fn=<MseLossBackward>)
+tensor(nan, device='cuda:0', grad_fn=<MseLossBackward>)
+tensor(nan, device='cuda:0', grad_fn=<MseLossBackward>)
+tensor(nan, device='cuda:0', grad_fn=<MseLossBackward>)
+tensor(nan, device='cuda:0', grad_fn=<MseLossBackward>)
+tensor(nan, device='cuda:0', grad_fn=<MseLossBackward>)
+Train Epoch: 1 [60/190 (32%)]	Loss: nan
+tensor(nan, device='cuda:0', grad_fn=<MseLossBackward>)
+tensor(nan, device='cuda:0', grad_fn=<MseLossBackward>)
+tensor(nan, device='cuda:0', grad_fn=<MseLossBackward>)
+tensor(nan, device='cuda:0', grad_fn=<MseLossBackward>)
+tensor(nan, device='cuda:0', grad_fn=<MseLossBackward>)
+tensor(nan, device='cuda:0', grad_fn=<MseLossBackward>)
+tensor(nan, device='cuda:0', grad_fn=<MseLossBackward>)
+tensor(nan, device='cuda:0', grad_fn=<MseLossBackward>)
+tensor(nan, device='cuda:0', grad_fn=<MseLossBackward>)
+tensor(nan, device='cuda:0', grad_fn=<MseLossBackward>)
+Train Epoch: 1 [80/190 (42%)]	Loss: nan
+tensor(nan, device='cuda:0', grad_fn=<MseLossBackward>)
+tensor(nan, device='cuda:0', grad_fn=<MseLossBackward>)
+tensor(nan, device='cuda:0', grad_fn=<MseLossBackward>)
+tensor(nan, device='cuda:0', grad_fn=<MseLossBackward>)
+tensor(nan, device='cuda:0', grad_fn=<MseLossBackward>)
+tensor(nan, device='cuda:0', grad_fn=<MseLossBackward>)
+tensor(nan, device='cuda:0', grad_fn=<MseLossBackward>)
+tensor(nan, device='cuda:0', grad_fn=<MseLossBackward>)
+tensor(nan, device='cuda:0', grad_fn=<MseLossBackward>)
+tensor(nan, device='cuda:0', grad_fn=<MseLossBackward>)
+Train Epoch: 1 [100/190 (53%)]	Loss: nan
+tensor(nan, device='cuda:0', grad_fn=<MseLossBackward>)
+tensor(nan, device='cuda:0', grad_fn=<MseLossBackward>)
+tensor(nan, device='cuda:0', grad_fn=<MseLossBackward>)
+tensor(nan, device='cuda:0', grad_fn=<MseLossBackward>)
+tensor(nan, device='cuda:0', grad_fn=<MseLossBackward>)
+tensor(nan, device='cuda:0', grad_fn=<MseLossBackward>)
+tensor(nan, device='cuda:0', grad_fn=<MseLossBackward>)
+tensor(nan, device='cuda:0', grad_fn=<MseLossBackward>)
+tensor(nan, device='cuda:0', grad_fn=<MseLossBackward>)
+tensor(nan, device='cuda:0', grad_fn=<MseLossBackward>)
+Train Epoch: 1 [120/190 (63%)]	Loss: nan
+tensor(nan, device='cuda:0', grad_fn=<MseLossBackward>)
+tensor(nan, device='cuda:0', grad_fn=<MseLossBackward>)
+tensor(nan, device='cuda:0', grad_fn=<MseLossBackward>)
+tensor(nan, device='cuda:0', grad_fn=<MseLossBackward>)
+tensor(nan, device='cuda:0', grad_fn=<MseLossBackward>)
+tensor(nan, device='cuda:0', grad_fn=<MseLossBackward>)
+tensor(nan, device='cuda:0', grad_fn=<MseLossBackward>)
+tensor(nan, device='cuda:0', grad_fn=<MseLossBackward>)
+tensor(nan, device='cuda:0', grad_fn=<MseLossBackward>)
+tensor(nan, device='cuda:0', grad_fn=<MseLossBackward>)
+Train Epoch: 1 [140/190 (74%)]	Loss: nan
+tensor(nan, device='cuda:0', grad_fn=<MseLossBackward>)
+tensor(nan, device='cuda:0', grad_fn=<MseLossBackward>)
+tensor(nan, device='cuda:0', grad_fn=<MseLossBackward>)
+tensor(nan, device='cuda:0', grad_fn=<MseLossBackward>)
+tensor(nan, device='cuda:0', grad_fn=<MseLossBackward>)
+tensor(nan, device='cuda:0', grad_fn=<MseLossBackward>)
+tensor(nan, device='cuda:0', grad_fn=<MseLossBackward>)
+tensor(nan, device='cuda:0', grad_fn=<MseLossBackward>)
+tensor(nan, device='cuda:0', grad_fn=<MseLossBackward>)
+tensor(nan, device='cuda:0', grad_fn=<MseLossBackward>)
+Train Epoch: 1 [160/190 (84%)]	Loss: nan
+tensor(nan, device='cuda:0', grad_fn=<MseLossBackward>)
+tensor(nan, device='cuda:0', grad_fn=<MseLossBackward>)
+tensor(nan, device='cuda:0', grad_fn=<MseLossBackward>)
+tensor(nan, device='cuda:0', grad_fn=<MseLossBackward>)
+tensor(nan, device='cuda:0', grad_fn=<MseLossBackward>)
+tensor(nan, device='cuda:0', grad_fn=<MseLossBackward>)
+tensor(nan, device='cuda:0', grad_fn=<MseLossBackward>)
+tensor(nan, device='cuda:0', grad_fn=<MseLossBackward>)
+tensor(nan, device='cuda:0', grad_fn=<MseLossBackward>)
+tensor(nan, device='cuda:0', grad_fn=<MseLossBackward>)
+Train Epoch: 1 [180/190 (95%)]	Loss: nan
+tensor(nan, device='cuda:0', grad_fn=<MseLossBackward>)
+tensor(nan, device='cuda:0', grad_fn=<MseLossBackward>)
+tensor(nan, device='cuda:0', grad_fn=<MseLossBackward>)
+tensor(nan, device='cuda:0', grad_fn=<MseLossBackward>)
+|train_loss: nan, train_acc: 17/190 (8.95%) | train_acc:-1.00%, best_epoch:-1
+nan
+nan
+nan
+nan
+nan
+nan
+nan
+nan
+nan
+nan
+nan
+nan
+nan
+nan
+nan
+nan
+nan
+nan
+|test_loss : nan, test_acc : 5/36 (13.89%) | best_acc :-1.00%, best_epoch:-1
+
+/home/mingyanzhen/anaconda3/envs/py36_torch/lib/python3.6/site-packages/torch/nn/_reduction.py:43: UserWarning: size_average and reduce args will be deprecated, please use reduction='sum' instead.
+  warnings.warn(warning.format(ret))
+tensor(nan, device='cuda:0', grad_fn=<MseLossBackward>)
+Train Epoch: 2 [0/190 (0%)]	Loss: nan
+tensor(nan, device='cuda:0', grad_fn=<MseLossBackward>)
+tensor(nan, device='cuda:0', grad_fn=<MseLossBackward>)
+tensor(nan, device='cuda:0', grad_fn=<MseLossBackward>)
+tensor(nan, device='cuda:0', grad_fn=<MseLossBackward>)
+tensor(nan, device='cuda:0', grad_fn=<MseLossBackward>)
+tensor(nan, device='cuda:0', grad_fn=<MseLossBackward>)
+tensor(nan, device='cuda:0', grad_fn=<MseLossBackward>)
+tensor(nan, device='cuda:0', grad_fn=<MseLossBackward>)
+tensor(nan, device='cuda:0', grad_fn=<MseLossBackward>)
+tensor(nan, device='cuda:0', grad_fn=<MseLossBackward>)
+Train Epoch: 2 [20/190 (11%)]	Loss: nan
+tensor(nan, device='cuda:0', grad_fn=<MseLossBackward>)
+tensor(nan, device='cuda:0', grad_fn=<MseLossBackward>)
+tensor(nan, device='cuda:0', grad_fn=<MseLossBackward>)
+tensor(nan, device='cuda:0', grad_fn=<MseLossBackward>)
+tensor(nan, device='cuda:0', grad_fn=<MseLossBackward>)
+tensor(nan, device='cuda:0', grad_fn=<MseLossBackward>)
+tensor(nan, device='cuda:0', grad_fn=<MseLossBackward>)
+tensor(nan, device='cuda:0', grad_fn=<MseLossBackward>)
+tensor(nan, device='cuda:0', grad_fn=<MseLossBackward>)
+tensor(nan, device='cuda:0', grad_fn=<MseLossBackward>)
+Train Epoch: 2 [40/190 (21%)]	Loss: nan
+tensor(nan, device='cuda:0', grad_fn=<MseLossBackward>)
+tensor(nan, device='cuda:0', grad_fn=<MseLossBackward>)
+tensor(nan, device='cuda:0', grad_fn=<MseLossBackward>)
+tensor(nan, device='cuda:0', grad_fn=<MseLossBackward>)
+tensor(nan, device='cuda:0', grad_fn=<MseLossBackward>)
+tensor(nan, device='cuda:0', grad_fn=<MseLossBackward>)
+tensor(nan, device='cuda:0', grad_fn=<MseLossBackward>)
+tensor(nan, device='cuda:0', grad_fn=<MseLossBackward>)
+tensor(nan, device='cuda:0', grad_fn=<MseLossBackward>)
+tensor(nan, device='cuda:0', grad_fn=<MseLossBackward>)
+Train Epoch: 2 [60/190 (32%)]	Loss: nan
+tensor(nan, device='cuda:0', grad_fn=<MseLossBackward>)
+tensor(nan, device='cuda:0', grad_fn=<MseLossBackward>)
+tensor(nan, device='cuda:0', grad_fn=<MseLossBackward>)
+tensor(nan, device='cuda:0', grad_fn=<MseLossBackward>)
+tensor(nan, device='cuda:0', grad_fn=<MseLossBackward>)
+tensor(nan, device='cuda:0', grad_fn=<MseLossBackward>)
+tensor(nan, device='cuda:0', grad_fn=<MseLossBackward>)
+tensor(nan, device='cuda:0', grad_fn=<MseLossBackward>)
+tensor(nan, device='cuda:0', grad_fn=<MseLossBackward>)
+tensor(nan, device='cuda:0', grad_fn=<MseLossBackward>)
+Train Epoch: 2 [80/190 (42%)]	Loss: nan
+tensor(nan, device='cuda:0', grad_fn=<MseLossBackward>)
+tensor(nan, device='cuda:0', grad_fn=<MseLossBackward>)
+tensor(nan, device='cuda:0', grad_fn=<MseLossBackward>)
+tensor(nan, device='cuda:0', grad_fn=<MseLossBackward>)
+tensor(nan, device='cuda:0', grad_fn=<MseLossBackward>)
+tensor(nan, device='cuda:0', grad_fn=<MseLossBackward>)
+tensor(nan, device='cuda:0', grad_fn=<MseLossBackward>)
+tensor(nan, device='cuda:0', grad_fn=<MseLossBackward>)
+tensor(nan, device='cuda:0', grad_fn=<MseLossBackward>)
+tensor(nan, device='cuda:0', grad_fn=<MseLossBackward>)
+Train Epoch: 2 [100/190 (53%)]	Loss: nan
+tensor(nan, device='cuda:0', grad_fn=<MseLossBackward>)
+tensor(nan, device='cuda:0', grad_fn=<MseLossBackward>)
+tensor(nan, device='cuda:0', grad_fn=<MseLossBackward>)
+tensor(nan, device='cuda:0', grad_fn=<MseLossBackward>)
+tensor(nan, device='cuda:0', grad_fn=<MseLossBackward>)
+tensor(nan, device='cuda:0', grad_fn=<MseLossBackward>)
+tensor(nan, device='cuda:0', grad_fn=<MseLossBackward>)
+tensor(nan, device='cuda:0', grad_fn=<MseLossBackward>)
+tensor(nan, device='cuda:0', grad_fn=<MseLossBackward>)
+tensor(nan, device='cuda:0', grad_fn=<MseLossBackward>)
+Train Epoch: 2 [120/190 (63%)]	Loss: nan
+tensor(nan, device='cuda:0', grad_fn=<MseLossBackward>)
+tensor(nan, device='cuda:0', grad_fn=<MseLossBackward>)
+tensor(nan, device='cuda:0', grad_fn=<MseLossBackward>)
+tensor(nan, device='cuda:0', grad_fn=<MseLossBackward>)
+tensor(nan, device='cuda:0', grad_fn=<MseLossBackward>)
+tensor(nan, device='cuda:0', grad_fn=<MseLossBackward>)
+tensor(nan, device='cuda:0', grad_fn=<MseLossBackward>)
+tensor(nan, device='cuda:0', grad_fn=<MseLossBackward>)
+tensor(nan, device='cuda:0', grad_fn=<MseLossBackward>)
+tensor(nan, device='cuda:0', grad_fn=<MseLossBackward>)
+Train Epoch: 2 [140/190 (74%)]	Loss: nan
+tensor(nan, device='cuda:0', grad_fn=<MseLossBackward>)
+tensor(nan, device='cuda:0', grad_fn=<MseLossBackward>)
+tensor(nan, device='cuda:0', grad_fn=<MseLossBackward>)
+tensor(nan, device='cuda:0', grad_fn=<MseLossBackward>)
+tensor(nan, device='cuda:0', grad_fn=<MseLossBackward>)
+tensor(nan, device='cuda:0', grad_fn=<MseLossBackward>)
+tensor(nan, device='cuda:0', grad_fn=<MseLossBackward>)
+tensor(nan, device='cuda:0', grad_fn=<MseLossBackward>)
+tensor(nan, device='cuda:0', grad_fn=<MseLossBackward>)
+tensor(nan, device='cuda:0', grad_fn=<MseLossBackward>)
+Train Epoch: 2 [160/190 (84%)]	Loss: nan
+tensor(nan, device='cuda:0', grad_fn=<MseLossBackward>)
+tensor(nan, device='cuda:0', grad_fn=<MseLossBackward>)
+tensor(nan, device='cuda:0', grad_fn=<MseLossBackward>)
+tensor(nan, device='cuda:0', grad_fn=<MseLossBackward>)
+tensor(nan, device='cuda:0', grad_fn=<MseLossBackward>)
+tensor(nan, device='cuda:0', grad_fn=<MseLossBackward>)
+tensor(nan, device='cuda:0', grad_fn=<MseLossBackward>)
+tensor(nan, device='cuda:0', grad_fn=<MseLossBackward>)
+tensor(nan, device='cuda:0', grad_fn=<MseLossBackward>)
+tensor(nan, device='cuda:0', grad_fn=<MseLossBackward>)
+Train Epoch: 2 [180/190 (95%)]	Loss: nan
+tensor(nan, device='cuda:0', grad_fn=<MseLossBackward>)
+tensor(nan, device='cuda:0', grad_fn=<MseLossBackward>)
+tensor(nan, device='cuda:0', grad_fn=<MseLossBackward>)
+tensor(nan, device='cuda:0', grad_fn=<MseLossBackward>)
+|train_loss: nan, train_acc: 9/190 (4.74%) | train_acc:8.95%, best_epoch:1
+nan
+nan
+nan
+nan
+nan
+nan
+nan
+nan
+nan
+nan
+nan
+nan
+nan
+nan
+nan
+nan
+nan
+nan
+|test_loss : nan, test_acc : 5/36 (13.89%) | best_acc :13.89%, best_epoch:1
+
+tensor(nan, device='cuda:0', grad_fn=<MseLossBackward>)
+Train Epoch: 3 [0/190 (0%)]	Loss: nan
+tensor(nan, device='cuda:0', grad_fn=<MseLossBackward>)
+tensor(nan, device='cuda:0', grad_fn=<MseLossBackward>)
+tensor(nan, device='cuda:0', grad_fn=<MseLossBackward>)
+tensor(nan, device='cuda:0', grad_fn=<MseLossBackward>)
+tensor(nan, device='cuda:0', grad_fn=<MseLossBackward>)
+tensor(nan, device='cuda:0', grad_fn=<MseLossBackward>)
+tensor(nan, device='cuda:0', grad_fn=<MseLossBackward>)
+tensor(nan, device='cuda:0', grad_fn=<MseLossBackward>)
+tensor(nan, device='cuda:0', grad_fn=<MseLossBackward>)
+tensor(nan, device='cuda:0', grad_fn=<MseLossBackward>)
+Train Epoch: 3 [20/190 (11%)]	Loss: nan
+tensor(nan, device='cuda:0', grad_fn=<MseLossBackward>)
+tensor(nan, device='cuda:0', grad_fn=<MseLossBackward>)
+tensor(nan, device='cuda:0', grad_fn=<MseLossBackward>)
+tensor(nan, device='cuda:0', grad_fn=<MseLossBackward>)
+tensor(nan, device='cuda:0', grad_fn=<MseLossBackward>)
+tensor(nan, device='cuda:0', grad_fn=<MseLossBackward>)
+tensor(nan, device='cuda:0', grad_fn=<MseLossBackward>)
+tensor(nan, device='cuda:0', grad_fn=<MseLossBackward>)
+tensor(nan, device='cuda:0', grad_fn=<MseLossBackward>)
+tensor(nan, device='cuda:0', grad_fn=<MseLossBackward>)
+Train Epoch: 3 [40/190 (21%)]	Loss: nan
+tensor(nan, device='cuda:0', grad_fn=<MseLossBackward>)
+tensor(nan, device='cuda:0', grad_fn=<MseLossBackward>)
+tensor(nan, device='cuda:0', grad_fn=<MseLossBackward>)
+tensor(nan, device='cuda:0', grad_fn=<MseLossBackward>)
+tensor(nan, device='cuda:0', grad_fn=<MseLossBackward>)
+tensor(nan, device='cuda:0', grad_fn=<MseLossBackward>)
+tensor(nan, device='cuda:0', grad_fn=<MseLossBackward>)
+tensor(nan, device='cuda:0', grad_fn=<MseLossBackward>)
+tensor(nan, device='cuda:0', grad_fn=<MseLossBackward>)
+tensor(nan, device='cuda:0', grad_fn=<MseLossBackward>)
+Train Epoch: 3 [60/190 (32%)]	Loss: nan
+tensor(nan, device='cuda:0', grad_fn=<MseLossBackward>)
+tensor(nan, device='cuda:0', grad_fn=<MseLossBackward>)
+tensor(nan, device='cuda:0', grad_fn=<MseLossBackward>)
+tensor(nan, device='cuda:0', grad_fn=<MseLossBackward>)
+tensor(nan, device='cuda:0', grad_fn=<MseLossBackward>)
+tensor(nan, device='cuda:0', grad_fn=<MseLossBackward>)
+tensor(nan, device='cuda:0', grad_fn=<MseLossBackward>)
+tensor(nan, device='cuda:0', grad_fn=<MseLossBackward>)
+tensor(nan, device='cuda:0', grad_fn=<MseLossBackward>)
+tensor(nan, device='cuda:0', grad_fn=<MseLossBackward>)
+Train Epoch: 3 [80/190 (42%)]	Loss: nan
+tensor(nan, device='cuda:0', grad_fn=<MseLossBackward>)
+tensor(nan, device='cuda:0', grad_fn=<MseLossBackward>)
+tensor(nan, device='cuda:0', grad_fn=<MseLossBackward>)
+tensor(nan, device='cuda:0', grad_fn=<MseLossBackward>)
+tensor(nan, device='cuda:0', grad_fn=<MseLossBackward>)
+tensor(nan, device='cuda:0', grad_fn=<MseLossBackward>)
+tensor(nan, device='cuda:0', grad_fn=<MseLossBackward>)
+tensor(nan, device='cuda:0', grad_fn=<MseLossBackward>)
+tensor(nan, device='cuda:0', grad_fn=<MseLossBackward>)
+tensor(nan, device='cuda:0', grad_fn=<MseLossBackward>)
+Train Epoch: 3 [100/190 (53%)]	Loss: nan
+tensor(nan, device='cuda:0', grad_fn=<MseLossBackward>)
+tensor(nan, device='cuda:0', grad_fn=<MseLossBackward>)
+tensor(nan, device='cuda:0', grad_fn=<MseLossBackward>)
+tensor(nan, device='cuda:0', grad_fn=<MseLossBackward>)
+tensor(nan, device='cuda:0', grad_fn=<MseLossBackward>)
+tensor(nan, device='cuda:0', grad_fn=<MseLossBackward>)
+tensor(nan, device='cuda:0', grad_fn=<MseLossBackward>)
+tensor(nan, device='cuda:0', grad_fn=<MseLossBackward>)
+tensor(nan, device='cuda:0', grad_fn=<MseLossBackward>)
+tensor(nan, device='cuda:0', grad_fn=<MseLossBackward>)
+Train Epoch: 3 [120/190 (63%)]	Loss: nan
+tensor(nan, device='cuda:0', grad_fn=<MseLossBackward>)
+tensor(nan, device='cuda:0', grad_fn=<MseLossBackward>)
+tensor(nan, device='cuda:0', grad_fn=<MseLossBackward>)
+tensor(nan, device='cuda:0', grad_fn=<MseLossBackward>)
+tensor(nan, device='cuda:0', grad_fn=<MseLossBackward>)
+tensor(nan, device='cuda:0', grad_fn=<MseLossBackward>)
+tensor(nan, device='cuda:0', grad_fn=<MseLossBackward>)
+tensor(nan, device='cuda:0', grad_fn=<MseLossBackward>)
+tensor(nan, device='cuda:0', grad_fn=<MseLossBackward>)
+tensor(nan, device='cuda:0', grad_fn=<MseLossBackward>)
+Train Epoch: 3 [140/190 (74%)]	Loss: nan
+tensor(nan, device='cuda:0', grad_fn=<MseLossBackward>)
+tensor(nan, device='cuda:0', grad_fn=<MseLossBackward>)
+tensor(nan, device='cuda:0', grad_fn=<MseLossBackward>)
+tensor(nan, device='cuda:0', grad_fn=<MseLossBackward>)
+tensor(nan, device='cuda:0', grad_fn=<MseLossBackward>)
+tensor(nan, device='cuda:0', grad_fn=<MseLossBackward>)
+tensor(nan, device='cuda:0', grad_fn=<MseLossBackward>)
+tensor(nan, device='cuda:0', grad_fn=<MseLossBackward>)
+tensor(nan, device='cuda:0', grad_fn=<MseLossBackward>)
+tensor(nan, device='cuda:0', grad_fn=<MseLossBackward>)
+Train Epoch: 3 [160/190 (84%)]	Loss: nan
+tensor(nan, device='cuda:0', grad_fn=<MseLossBackward>)
+tensor(nan, device='cuda:0', grad_fn=<MseLossBackward>)
+tensor(nan, device='cuda:0', grad_fn=<MseLossBackward>)
+tensor(nan, device='cuda:0', grad_fn=<MseLossBackward>)
+tensor(nan, device='cuda:0', grad_fn=<MseLossBackward>)
+tensor(nan, device='cuda:0', grad_fn=<MseLossBackward>)
+tensor(nan, device='cuda:0', grad_fn=<MseLossBackward>)
+tensor(nan, device='cuda:0', grad_fn=<MseLossBackward>)
+tensor(nan, device='cuda:0', grad_fn=<MseLossBackward>)
+tensor(nan, device='cuda:0', grad_fn=<MseLossBackward>)
+Train Epoch: 3 [180/190 (95%)]	Loss: nan
+tensor(nan, device='cuda:0', grad_fn=<MseLossBackward>)
+tensor(nan, device='cuda:0', grad_fn=<MseLossBackward>)
+tensor(nan, device='cuda:0', grad_fn=<MseLossBackward>)
+tensor(nan, device='cuda:0', grad_fn=<MseLossBackward>)
+|train_loss: nan, train_acc: 9/190 (4.74%) | train_acc:8.95%, best_epoch:1
+nan
+nan
+nan
+nan
+nan
+nan
+nan
+nan
+nan
+nan
+nan
+nan
+nan
+nan
+nan
+nan
+nan
+nan
+|test_loss : nan, test_acc : 5/36 (13.89%) | best_acc :13.89%, best_epoch:1
+
+tensor(nan, device='cuda:0', grad_fn=<MseLossBackward>)
+Train Epoch: 4 [0/190 (0%)]	Loss: nan
+tensor(nan, device='cuda:0', grad_fn=<MseLossBackward>)
+tensor(nan, device='cuda:0', grad_fn=<MseLossBackward>)
+tensor(nan, device='cuda:0', grad_fn=<MseLossBackward>)
+tensor(nan, device='cuda:0', grad_fn=<MseLossBackward>)
+tensor(nan, device='cuda:0', grad_fn=<MseLossBackward>)
+tensor(nan, device='cuda:0', grad_fn=<MseLossBackward>)
+tensor(nan, device='cuda:0', grad_fn=<MseLossBackward>)
+tensor(nan, device='cuda:0', grad_fn=<MseLossBackward>)
+tensor(nan, device='cuda:0', grad_fn=<MseLossBackward>)
+tensor(nan, device='cuda:0', grad_fn=<MseLossBackward>)
+Train Epoch: 4 [20/190 (11%)]	Loss: nan
+tensor(nan, device='cuda:0', grad_fn=<MseLossBackward>)
+tensor(nan, device='cuda:0', grad_fn=<MseLossBackward>)
+tensor(nan, device='cuda:0', grad_fn=<MseLossBackward>)
+tensor(nan, device='cuda:0', grad_fn=<MseLossBackward>)
+tensor(nan, device='cuda:0', grad_fn=<MseLossBackward>)
+tensor(nan, device='cuda:0', grad_fn=<MseLossBackward>)
+tensor(nan, device='cuda:0', grad_fn=<MseLossBackward>)
+tensor(nan, device='cuda:0', grad_fn=<MseLossBackward>)
+tensor(nan, device='cuda:0', grad_fn=<MseLossBackward>)
+tensor(nan, device='cuda:0', grad_fn=<MseLossBackward>)
+Train Epoch: 4 [40/190 (21%)]	Loss: nan
+tensor(nan, device='cuda:0', grad_fn=<MseLossBackward>)
+tensor(nan, device='cuda:0', grad_fn=<MseLossBackward>)
+tensor(nan, device='cuda:0', grad_fn=<MseLossBackward>)
+tensor(nan, device='cuda:0', grad_fn=<MseLossBackward>)
+tensor(nan, device='cuda:0', grad_fn=<MseLossBackward>)
+tensor(nan, device='cuda:0', grad_fn=<MseLossBackward>)
+tensor(nan, device='cuda:0', grad_fn=<MseLossBackward>)
+tensor(nan, device='cuda:0', grad_fn=<MseLossBackward>)
+tensor(nan, device='cuda:0', grad_fn=<MseLossBackward>)
+tensor(nan, device='cuda:0', grad_fn=<MseLossBackward>)
+Train Epoch: 4 [60/190 (32%)]	Loss: nan
+tensor(nan, device='cuda:0', grad_fn=<MseLossBackward>)
+tensor(nan, device='cuda:0', grad_fn=<MseLossBackward>)
+tensor(nan, device='cuda:0', grad_fn=<MseLossBackward>)
+tensor(nan, device='cuda:0', grad_fn=<MseLossBackward>)
+tensor(nan, device='cuda:0', grad_fn=<MseLossBackward>)
+tensor(nan, device='cuda:0', grad_fn=<MseLossBackward>)
+tensor(nan, device='cuda:0', grad_fn=<MseLossBackward>)
+tensor(nan, device='cuda:0', grad_fn=<MseLossBackward>)
+tensor(nan, device='cuda:0', grad_fn=<MseLossBackward>)
+tensor(nan, device='cuda:0', grad_fn=<MseLossBackward>)
+Train Epoch: 4 [80/190 (42%)]	Loss: nan
+tensor(nan, device='cuda:0', grad_fn=<MseLossBackward>)
+tensor(nan, device='cuda:0', grad_fn=<MseLossBackward>)
+tensor(nan, device='cuda:0', grad_fn=<MseLossBackward>)
+tensor(nan, device='cuda:0', grad_fn=<MseLossBackward>)
+tensor(nan, device='cuda:0', grad_fn=<MseLossBackward>)
+tensor(nan, device='cuda:0', grad_fn=<MseLossBackward>)
+tensor(nan, device='cuda:0', grad_fn=<MseLossBackward>)
+tensor(nan, device='cuda:0', grad_fn=<MseLossBackward>)
+tensor(nan, device='cuda:0', grad_fn=<MseLossBackward>)
+tensor(nan, device='cuda:0', grad_fn=<MseLossBackward>)
+Train Epoch: 4 [100/190 (53%)]	Loss: nan
+tensor(nan, device='cuda:0', grad_fn=<MseLossBackward>)
+tensor(nan, device='cuda:0', grad_fn=<MseLossBackward>)
+tensor(nan, device='cuda:0', grad_fn=<MseLossBackward>)
+tensor(nan, device='cuda:0', grad_fn=<MseLossBackward>)
+tensor(nan, device='cuda:0', grad_fn=<MseLossBackward>)
+tensor(nan, device='cuda:0', grad_fn=<MseLossBackward>)
+tensor(nan, device='cuda:0', grad_fn=<MseLossBackward>)
+tensor(nan, device='cuda:0', grad_fn=<MseLossBackward>)
+tensor(nan, device='cuda:0', grad_fn=<MseLossBackward>)
+tensor(nan, device='cuda:0', grad_fn=<MseLossBackward>)
+Train Epoch: 4 [120/190 (63%)]	Loss: nan
+tensor(nan, device='cuda:0', grad_fn=<MseLossBackward>)
+tensor(nan, device='cuda:0', grad_fn=<MseLossBackward>)
+tensor(nan, device='cuda:0', grad_fn=<MseLossBackward>)
+tensor(nan, device='cuda:0', grad_fn=<MseLossBackward>)
+tensor(nan, device='cuda:0', grad_fn=<MseLossBackward>)
+tensor(nan, device='cuda:0', grad_fn=<MseLossBackward>)
+tensor(nan, device='cuda:0', grad_fn=<MseLossBackward>)
+tensor(nan, device='cuda:0', grad_fn=<MseLossBackward>)
+tensor(nan, device='cuda:0', grad_fn=<MseLossBackward>)
+tensor(nan, device='cuda:0', grad_fn=<MseLossBackward>)
+Train Epoch: 4 [140/190 (74%)]	Loss: nan
+tensor(nan, device='cuda:0', grad_fn=<MseLossBackward>)
+tensor(nan, device='cuda:0', grad_fn=<MseLossBackward>)
+tensor(nan, device='cuda:0', grad_fn=<MseLossBackward>)
+tensor(nan, device='cuda:0', grad_fn=<MseLossBackward>)
+tensor(nan, device='cuda:0', grad_fn=<MseLossBackward>)
+tensor(nan, device='cuda:0', grad_fn=<MseLossBackward>)
+tensor(nan, device='cuda:0', grad_fn=<MseLossBackward>)
+tensor(nan, device='cuda:0', grad_fn=<MseLossBackward>)
+tensor(nan, device='cuda:0', grad_fn=<MseLossBackward>)
+tensor(nan, device='cuda:0', grad_fn=<MseLossBackward>)
+Train Epoch: 4 [160/190 (84%)]	Loss: nan
+tensor(nan, device='cuda:0', grad_fn=<MseLossBackward>)
+tensor(nan, device='cuda:0', grad_fn=<MseLossBackward>)
+tensor(nan, device='cuda:0', grad_fn=<MseLossBackward>)
+tensor(nan, device='cuda:0', grad_fn=<MseLossBackward>)
+tensor(nan, device='cuda:0', grad_fn=<MseLossBackward>)
+tensor(nan, device='cuda:0', grad_fn=<MseLossBackward>)
+tensor(nan, device='cuda:0', grad_fn=<MseLossBackward>)
+tensor(nan, device='cuda:0', grad_fn=<MseLossBackward>)
+tensor(nan, device='cuda:0', grad_fn=<MseLossBackward>)
+tensor(nan, device='cuda:0', grad_fn=<MseLossBackward>)
+Train Epoch: 4 [180/190 (95%)]	Loss: nan
+tensor(nan, device='cuda:0', grad_fn=<MseLossBackward>)
+tensor(nan, device='cuda:0', grad_fn=<MseLossBackward>)
+tensor(nan, device='cuda:0', grad_fn=<MseLossBackward>)
+tensor(nan, device='cuda:0', grad_fn=<MseLossBackward>)
+|train_loss: nan, train_acc: 9/190 (4.74%) | train_acc:8.95%, best_epoch:1
+nan
+nan
+nan
+nan
+nan
+nan
+nan
+nan
+nan
+nan
+nan
+nan
+nan
+nan
+nan
+nan
+nan
+nan
+|test_loss : nan, test_acc : 5/36 (13.89%) | best_acc :13.89%, best_epoch:1
+

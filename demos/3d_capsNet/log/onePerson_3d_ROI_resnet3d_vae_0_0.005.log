@@ -1,0 +1,30 @@
+#### x 3d: torch.Size([32, 4, 32, 160, 160])
+en, x: torch.Size([32, 32, 32, 160, 160])
+Traceback (most recent call last):
+  File "main.py", line 169, in <module>
+    train_loss, train_acc = train(epoch, best_train)
+  File "main.py", line 115, in train
+    output, probs = model(data)
+  File "/home/mingyanzhen/anaconda3/envs/py36_torch/lib/python3.6/site-packages/torch/nn/modules/module.py", line 547, in __call__
+    result = self.forward(*input, **kwargs)
+  File "/media/hd3/mingyanzhen/20210823_prostate/20210823_prostate_by_capsuleNet/0913_capsNet/3_3d/models/ResNet3D_VAE.py", line 275, in forward
+    x1, x2, x3, x4 = self.encoder(x)
+  File "/home/mingyanzhen/anaconda3/envs/py36_torch/lib/python3.6/site-packages/torch/nn/modules/module.py", line 547, in __call__
+    result = self.forward(*input, **kwargs)
+  File "/media/hd3/mingyanzhen/20210823_prostate/20210823_prostate_by_capsuleNet/0913_capsNet/3_3d/models/ResNet3D_VAE.py", line 133, in forward
+    x1 = self.green_1(x)
+  File "/home/mingyanzhen/anaconda3/envs/py36_torch/lib/python3.6/site-packages/torch/nn/modules/module.py", line 547, in __call__
+    result = self.forward(*input, **kwargs)
+  File "/media/hd3/mingyanzhen/20210823_prostate/20210823_prostate_by_capsuleNet/0913_capsNet/3_3d/models/ResNet3D_VAE.py", line 37, in forward
+    x = self.layer_1(x)
+  File "/home/mingyanzhen/anaconda3/envs/py36_torch/lib/python3.6/site-packages/torch/nn/modules/module.py", line 547, in __call__
+    result = self.forward(*input, **kwargs)
+  File "/home/mingyanzhen/anaconda3/envs/py36_torch/lib/python3.6/site-packages/torch/nn/modules/container.py", line 92, in forward
+    input = module(input)
+  File "/home/mingyanzhen/anaconda3/envs/py36_torch/lib/python3.6/site-packages/torch/nn/modules/module.py", line 547, in __call__
+    result = self.forward(*input, **kwargs)
+  File "/home/mingyanzhen/anaconda3/envs/py36_torch/lib/python3.6/site-packages/torch/nn/modules/normalization.py", line 225, in forward
+    input, self.num_groups, self.weight, self.bias, self.eps)
+  File "/home/mingyanzhen/anaconda3/envs/py36_torch/lib/python3.6/site-packages/torch/nn/functional.py", line 1692, in group_norm
+    torch.backends.cudnn.enabled)
+RuntimeError: CUDA out of memory. Tried to allocate 3.12 GiB (GPU 0; 10.76 GiB total capacity; 6.72 GiB already allocated; 3.10 GiB free; 29.10 MiB cached)

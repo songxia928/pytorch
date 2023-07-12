@@ -1,0 +1,88 @@
+Train Epoch: 1 [0/190 (0%)]	Loss: 0.192937
+|train_loss: 0.008624, train_acc: 39/190 (20.53%) | train_acc:-1.00%, best_epoch:-1
+/media/hd3/mingyanzhen/20210823_prostate/20210823_prostate_by_capsuleNet/0913_capsNet/3_3d/models/capsnet_3d.py:30: UserWarning: Implicit dimension choice for softmax has been deprecated. Change the call to include dim=X as an argument.
+  c = F.softmax(self.b)
+/media/hd3/mingyanzhen/20210823_prostate/20210823_prostate_by_capsuleNet/0913_capsNet/3_3d/models/capsnet_3d.py:40: UserWarning: Implicit dimension choice for softmax has been deprecated. Change the call to include dim=X as an argument.
+  c = F.softmax(b_batch.view(-1, output_caps)).view(-1, input_caps, output_caps, 1)
+|test_loss : 1.211700, test_acc : 5/36 (13.89%) | best_acc :-1.00%, best_epoch:-1
+
+Train Epoch: 2 [0/190 (0%)]	Loss: 0.299148
+|train_loss: 0.009451, train_acc: 11/190 (5.79%) | train_acc:20.53%, best_epoch:1
+|test_loss : 1.208127, test_acc : 6/36 (16.67%) | best_acc :13.89%, best_epoch:1
+
+Train Epoch: 3 [0/190 (0%)]	Loss: 0.301178
+|train_loss: 0.009507, train_acc: 13/190 (6.84%) | train_acc:20.53%, best_epoch:1
+|test_loss : 1.211029, test_acc : 4/36 (11.11%) | best_acc :16.67%, best_epoch:2
+
+Train Epoch: 4 [0/190 (0%)]	Loss: 0.302016
+|train_loss: 0.009509, train_acc: 12/190 (6.32%) | train_acc:20.53%, best_epoch:1
+|test_loss : 1.209673, test_acc : 3/36 (8.33%) | best_acc :16.67%, best_epoch:2
+
+Train Epoch: 5 [0/190 (0%)]	Loss: 0.300628
+|train_loss: 0.009512, train_acc: 10/190 (5.26%) | train_acc:20.53%, best_epoch:1
+|test_loss : 1.211638, test_acc : 5/36 (13.89%) | best_acc :16.67%, best_epoch:2
+
+Train Epoch: 6 [0/190 (0%)]	Loss: 0.302726
+|train_loss: 0.009566, train_acc: 13/190 (6.84%) | train_acc:20.53%, best_epoch:1
+|test_loss : 1.211299, test_acc : 5/36 (13.89%) | best_acc :16.67%, best_epoch:2
+
+Train Epoch: 7 [0/190 (0%)]	Loss: 0.302718
+|train_loss: 0.009521, train_acc: 9/190 (4.74%) | train_acc:20.53%, best_epoch:1
+|test_loss : 1.207116, test_acc : 5/36 (13.89%) | best_acc :16.67%, best_epoch:2
+
+Train Epoch: 8 [0/190 (0%)]	Loss: 0.302464
+|train_loss: 0.009565, train_acc: 9/190 (4.74%) | train_acc:20.53%, best_epoch:1
+|test_loss : 1.212012, test_acc : 5/36 (13.89%) | best_acc :16.67%, best_epoch:2
+
+Train Epoch: 9 [0/190 (0%)]	Loss: 0.302786
+|train_loss: 0.009571, train_acc: 9/190 (4.74%) | train_acc:20.53%, best_epoch:1
+|test_loss : 1.210933, test_acc : 5/36 (13.89%) | best_acc :16.67%, best_epoch:2
+
+Train Epoch: 10 [0/190 (0%)]	Loss: 0.303070
+|train_loss: 0.009553, train_acc: 9/190 (4.74%) | train_acc:20.53%, best_epoch:1
+|test_loss : 1.205537, test_acc : 5/36 (13.89%) | best_acc :16.67%, best_epoch:2
+
+Train Epoch: 11 [0/190 (0%)]	Loss: 0.302122
+|train_loss: 0.009533, train_acc: 9/190 (4.74%) | train_acc:20.53%, best_epoch:1
+|test_loss : 1.197022, test_acc : 5/36 (13.89%) | best_acc :16.67%, best_epoch:2
+
+Train Epoch: 12 [0/190 (0%)]	Loss: 0.301510
+|train_loss: 0.009481, train_acc: 9/190 (4.74%) | train_acc:20.53%, best_epoch:1
+|test_loss : 1.192834, test_acc : 5/36 (13.89%) | best_acc :16.67%, best_epoch:2
+
+Train Epoch: 13 [0/190 (0%)]	Loss: 0.299409
+|train_loss: 0.009442, train_acc: 9/190 (4.74%) | train_acc:20.53%, best_epoch:1
+|test_loss : 1.184403, test_acc : 5/36 (13.89%) | best_acc :16.67%, best_epoch:2
+
+Train Epoch: 14 [0/190 (0%)]	Loss: 0.297649
+|train_loss: 0.009408, train_acc: 9/190 (4.74%) | train_acc:20.53%, best_epoch:1
+|test_loss : 1.212741, test_acc : 5/36 (13.89%) | best_acc :16.67%, best_epoch:2
+
+Train Epoch: 15 [0/190 (0%)]	Loss: 0.302746
+|train_loss: 0.009578, train_acc: 9/190 (4.74%) | train_acc:20.53%, best_epoch:1
+|test_loss : 1.214144, test_acc : 5/36 (13.89%) | best_acc :16.67%, best_epoch:2
+
+Train Epoch: 16 [0/190 (0%)]	Loss: 0.303531
+|train_loss: 0.009585, train_acc: 8/190 (4.21%) | train_acc:20.53%, best_epoch:1
+|test_loss : 1.214279, test_acc : 5/36 (13.89%) | best_acc :16.67%, best_epoch:2
+
+Train Epoch: 17 [0/190 (0%)]	Loss: 0.303567
+|train_loss: 0.009585, train_acc: 9/190 (4.74%) | train_acc:20.53%, best_epoch:1
+|test_loss : 1.214307, test_acc : 5/36 (13.89%) | best_acc :16.67%, best_epoch:2
+
+Train Epoch: 18 [0/190 (0%)]	Loss: 0.303576
+|train_loss: 0.009585, train_acc: 9/190 (4.74%) | train_acc:20.53%, best_epoch:1
+|test_loss : 1.214304, test_acc : 5/36 (13.89%) | best_acc :16.67%, best_epoch:2
+
+Train Epoch: 19 [0/190 (0%)]	Loss: 0.303558
+|train_loss: 0.009585, train_acc: 9/190 (4.74%) | train_acc:20.53%, best_epoch:1
+|test_loss : 1.214286, test_acc : 5/36 (13.89%) | best_acc :16.67%, best_epoch:2
+
+Train Epoch: 20 [0/190 (0%)]	Loss: 0.303539
+|train_loss: 0.009585, train_acc: 9/190 (4.74%) | train_acc:20.53%, best_epoch:1
+|test_loss : 1.214258, test_acc : 5/36 (13.89%) | best_acc :16.67%, best_epoch:2
+
+Train Epoch: 21 [0/190 (0%)]	Loss: 0.303550
+|train_loss: 0.009584, train_acc: 9/190 (4.74%) | train_acc:20.53%, best_epoch:1
+|test_loss : 1.214220, test_acc : 5/36 (13.89%) | best_acc :16.67%, best_epoch:2
+
